@@ -1,3 +1,7 @@
+theme: 
+title: Welcome to pernilleklingenbergs information
+description: Fell free to read about me
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pernilleklingenberg/pernilleklingenberg.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
